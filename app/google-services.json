@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "160901927467",
+    "project_id": "autenticacion-28edc",
+    "storage_bucket": "autenticacion-28edc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160901927467:android:e6a22e6d122c90c680d06e",
+        "android_client_info": {
+          "package_name": "com.example.autenticacion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160901927467-qetm3clbtnkjcm8088fnb5jotjke1d6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3CwH9MkMtMf3HwBBp9EEkB1jBoXTaaME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160901927467-qetm3clbtnkjcm8088fnb5jotjke1d6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
