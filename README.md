@@ -28,15 +28,15 @@ Este proyecto implementa un sistema de autenticación de usuarios utilizando **F
 
 | Vista Principal | Inicio de Sesión |
 |----------------|------------------|
-| <img src="https://github.com/user-attachments/assets/88206925-57ff-4cfd-99cd-0da812e05b01" width="250"> | <img src="https://github.com/user-attachments/assets/eddf457a-9ed3-4913-a282-db2872ade9c2" width="250"> |
+| <img src="https://github.com/user-attachments/assets/88206925-57ff-4cfd-99cd-0da812e05b01" width="350"> | <img src="https://github.com/user-attachments/assets/eddf457a-9ed3-4913-a282-db2872ade9c2" width="350"> |
 
 | Pantalla de Bienvenida | Validación de Usuario No Registrado |
 |-----------------------|-------------------------------------|
-| <img src="https://github.com/user-attachments/assets/72e613e2-6e82-43f6-9f85-b32feed8dbfa" width="250"> | <img src="https://github.com/user-attachments/assets/f4764c74-4995-4855-8294-a513274e305b" width="250"> |
+| <img src="https://github.com/user-attachments/assets/72e613e2-6e82-43f6-9f85-b32feed8dbfa" width="350"> | <img src="https://github.com/user-attachments/assets/f4764c74-4995-4855-8294-a513274e305b" width="350"> |
 
 | Registro de Nuevo Usuario |
 |---------------------------|
-| <img src="https://github.com/user-attachments/assets/90f3d89b-9d62-4b97-baf1-8c27e3484325" width="250"> |
+| <img src="https://github.com/user-attachments/assets/90f3d89b-9d62-4b97-baf1-8c27e3484325" width="350"> |
 
 ---
 
